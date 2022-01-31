@@ -24,4 +24,4 @@ This module is used to book food. On selection user will be asked for his room n
 ####	Developed by : kiriti(S20200020247)
 ### 6)Checkout
 This will help the user to checkout. User will be asked for room number and on entering a valid and non vacant room number customer detais and the bill will be showed.The room will be marked as vacant and the customer details will be deleted.
-	####	Developed by : Bhanu(S20200020255)
+####	Developed by : Bhanu(S20200020255)
